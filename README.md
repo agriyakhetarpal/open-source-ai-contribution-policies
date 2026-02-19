@@ -12,6 +12,8 @@ A list of policies by different open source projects about how to engage with AI
 - [Pandas](pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
 - [LLVM](llvm.org): [LLVM AI Tool Use Policy](https://llvm.org/docs//AIToolPolicy.html)
 - [Zulip](https://zulip.com/): [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
+- [Arrow](https://arrow.apache.org): [AI-generated code](https://arrow.apache.org/docs/dev/developers/overview.html#ai-generated-code)
+- [FastAPI](https://fastapi.tiangolo.com): [Automated Code and AI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 
 ## Ongoing discussions
 
