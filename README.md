@@ -1,2 +1,24 @@
 # open-source-ai-contribution-policies
+
 A list of policies by different open source projects about how to engage with AI-generated contributions.
+
+**Feel free to submit Pull Requests with policies you find in other projects!**
+
+## Policies
+
+- [Matplotlib](matplotlib.org): [Restrictions on Generative AI Usage](https://matplotlib.org/devdocs/devel/contribute.html#generative-ai)
+- [napari](napari.org): [AI use policy and guidelines](https://napari.org/dev/developers/contributing/ai.html)
+- [SciPy](scipy.org): [AI Policy](https://scipy.github.io/devdocs/dev/conduct/ai_policy.html)
+- [Pandas](pandas.pydata.org): [Automated contributions policy](https://pandas.pydata.org/docs/dev/development/contributing.html#automated-contributions-policy)
+- [LLVM](llvm.org): [LLVM AI Tool Use Policy](https://llvm.org/docs//AIToolPolicy.html)
+- [Zulip](https://zulip.com/): [AI use policy and guidelines](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
+
+## Ongoing discussions
+
+- [scikit-image](https://scikit-image.org/): [PR#7982](https://github.com/scikit-image/scikit-image/pull/7982)
+- [NumPy](numpy.org): [Mailing list discussion](https://mail.python.org/archives/list/numpy-discussion@python.org/thread/LAR7P3KQWHWAIKYSHTS2MY7X4HUBVA3L/)
+- [Scientific Python](scientific-python.org): [Blog post: Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
+
+## Other references
+
+- [Xarray's CLAUDE.md file](https://github.com/pydata/xarray/blob/main/CLAUDE.md)
