@@ -29,3 +29,4 @@ A list of policies by different open source projects about how to engage with AI
 - [Preparing JOSS for a generative AI future: From code to human creativity and design](https://blog.joss.theoj.org/2026/01/preparing-joss-for-a-generative-ai-future)
 - [Navigating LLMs in Open Source: pyOpenSci’s New Peer Review Policy](https://www.pyopensci.org/blog/generative-ai-peer-review-policy.html)
 - [scikit-learn's AGENTS.md file](https://github.com/scikit-learn/scikit-learn/blob/main/AGENTS.md)
+- [agentic-oss-policy: Policy templates for protecting open source projects from autonomous AI agent abuse](https://github.com/guenp/agentic-oss-policy)
